@@ -1,4 +1,4 @@
-# AI-Powered Token Airdrop Selector
+# POC of AI-Powered Token Airdrop Selector
 
 This project is an AI-powered application designed to determine user eligibility for a token airdrop based on on-chain transaction data. Built using Next.js and TypeScript for the frontend, and Starknet with Cairo for the smart contract, this application allows users to check their eligibility and claim tokens.
 
